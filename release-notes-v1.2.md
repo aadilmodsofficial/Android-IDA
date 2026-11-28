@@ -1,13 +1,13 @@
 <img src="https://raw.githubusercontent.com/aadilmodsofficial/Android-IDA/main/assets/icon.png" alt="Android IDA" width="96" height="96">
 
-## Android IDA v1.1
+## Android IDA v1.2
 
 ARM disassembler & decompiler for Android, now with a Unity dump viewer, an AI assistant and an MCP server.
 
 ### Download
-**`Android_IDA_v1.1_Official.apk`** (27.96 MB) below, then install it on an ARM phone running Android 7.0 or newer.
+**`Android_IDA_v1.2_Official.apk`** (27.96 MB) below, then install it on an ARM phone running Android 7.0 or newer.
 
-### New in v1.1
+### New in v1.2
 
 **Unity dump viewer**
 - Import an IL2CPP `dump.cs` or the game's DLLs; indexing runs in the background and resumes where it stopped
